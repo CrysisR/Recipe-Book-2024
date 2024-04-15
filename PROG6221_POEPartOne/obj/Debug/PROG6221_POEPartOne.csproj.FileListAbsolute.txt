@@ -1,0 +1,7 @@
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\bin\Debug\PROG6221_POEPartOne.exe.config
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\bin\Debug\PROG6221_POEPartOne.exe
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\bin\Debug\PROG6221_POEPartOne.pdb
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\obj\Debug\PROG6221_POEPartOne.csproj.AssemblyReference.cache
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\obj\Debug\PROG6221_POEPartOne.csproj.CoreCompileInputs.cache
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\obj\Debug\PROG6221_POEPartOne.exe
+C:\Users\Niel\source\repos\PROG6221_POEPartOne\PROG6221_POEPartOne\obj\Debug\PROG6221_POEPartOne.pdb
